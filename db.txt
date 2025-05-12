@@ -1,0 +1,11 @@
+
+=============================: FTP : =============================
+File Transfer Protocal
+Using FTP we can tranfer files from one server to another server.
+ftp is very fast 
+
+Package : vsftpd 
+Service : vsftpd
+daemon : vsftpd
+port : 20,21
+Config file : /etc/vsftpd/vsftpd.conf
