@@ -1,0 +1,18 @@
+[ubuntu@ip-172-31-17-201 myproject]$ git config --global --list
+user.email=sivaprasad@gmail.com
+user.name=siva
+[ubuntu@ip-172-31-17-201 myproject]$ git add .
+[ubuntu@ip-172-31-17-201 myproject]$ git commit -m "files added"
+[master (root-commit) ca4e9e6] files added
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 application.txt
+ create mode 100644 db.txt
+ create mode 100644 myfile.txt
+[ubuntu@ip-172-31-17-201 myproject]$ git status
+On branch master
+nothing to commit, working tree clean
+[ubuntu@ip-172-31-17-201 myproject]$ vi
+
+
+
+
